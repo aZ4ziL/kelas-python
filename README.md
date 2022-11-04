@@ -75,3 +75,7 @@ Berdasarkan TIOBE Programming Community Index yang mengindikasikan popularitas b
 ### Python itu jenis bahasa pemrograman apa sih
 
 Python adalah bahasa pemrograman interpreted, object-oriented, dan tingkat tinggi. Artinya, Python menggunakan software yang disebut interpreter untuk membaca kode baris demi baris saat program Python dieksekusi, bukan membaca keseluruhannya sekaligus.
+
+---
+
+[Syllabus Of Python](SYLLABUS.md)
