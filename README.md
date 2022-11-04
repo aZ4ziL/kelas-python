@@ -1,7 +1,7 @@
 # Kelas Python
 
 <div align="center">
-    <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400">
+    <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 </div>
 
 [Python](https://python.org) adalah basaha pemrograman serbaguna yang bisa dijalankan pada semua arsitektur sistem dan bisa digunakan diberbagai bidang, mulai dari `Web Development`, `Artificial Intelligent`, `Machine Learning`, hingga `Software Development`
